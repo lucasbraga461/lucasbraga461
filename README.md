@@ -62,7 +62,7 @@ Lucas Braga serves as **Lead Data Scientist** at Wolt (DoorDash International), 
 
 ### [Sample Size Calculator](https://github.com/lucasbraga461/sample-size-calculator)
 *Towards Data Science Article - Statistical Tool with Cloud Deployment*
-- [Live Application](http://18.231.252.63:8080/) deployed on Google Cloud Run
+- [Live Application](https://huggingface.co/spaces/lucasbraga461/streamlit_sample_size_calculator) deployed on huggingface.co
 - Statistical formulas for AB testing and experimental design
 - Docker containerization with Streamlit interface
 - Mathematical documentation with comprehensive examples
